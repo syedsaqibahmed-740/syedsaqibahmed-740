@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Syed Saqib Ahmed 👋
 
-<!--
-**syedsaqibahmed-740/syedsaqibahmed-740** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+AI/ML Enthusiast and Python learner interested in building real-world AI projects.
 
-Here are some ideas to get you started:
+## 🧠 Projects
+• AI Drug Discovery using CNN  
+• Binance Futures Trading Bot  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+• Python  
+• Machine Learning  
+• Deep Learning  
+• TensorFlow / Keras  
+• Pandas / NumPy  
+
+## 📚 Currently Learning
+• Deep Learning  
+• AI Applications  
+• Model Optimization  
+
+## 🎯 Goal
+Looking for AI/ML Internship Opportunities
