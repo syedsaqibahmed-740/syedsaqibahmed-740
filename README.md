@@ -21,3 +21,6 @@ AI/ML Enthusiast and Python learner interested in building real-world AI project
 
 ## 🎯 Goal
 Looking for AI/ML Internship Opportunities
+
+## 🛠 Tools
+Python | TensorFlow | Keras | Pandas | NumPy | GitHub
